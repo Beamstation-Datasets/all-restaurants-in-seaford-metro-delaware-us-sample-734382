@@ -1,0 +1,12 @@
+{
+  "export_job_id": "1b6ac88b-a01c-4fc0-8d7f-ce471e12693f",
+  "id_short": 734382,
+  "published_at": "2026-04-14T20:00:13Z",
+  "repo_name": "all-restaurants-in-seaford-metro-delaware-us-sample-734382",
+  "sample_asset_name": "beamstation_734382_restaurants-us-seafordde_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/734382/beamstation_734382_restaurants-us-seafordde_SAMPLE_DIST.csv",
+  "sample_records": 71,
+  "sample_sha256": "bca3c8197b07bc7fbd06ccf5ebbee94bb14e34f9094c703bf0405c25bb2791d8",
+  "sample_size_bytes": 280626,
+  "total_records": 739
+}
