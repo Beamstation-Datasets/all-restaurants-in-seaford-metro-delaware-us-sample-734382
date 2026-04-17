@@ -9,9 +9,9 @@
 | Dataset ID | `734382` |
 | Location | Seaford, DE |
 | Category | Restaurants |
-| Full dataset size | 739 records |
-| Free sample size | 71 records (9.61%) |
-| Last export | 2026-04-07T12:55:20.615234+00:00 |
+| Full dataset size | 717 records |
+| Free sample size | 71 records (9.9%) |
+| Last export | 2026-04-14T12:48:45.094575+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-seaford-metro-delaware-us-sample-734382/releases/download/sample-latest/beamstation_734382_restaurants-us-seafordde_SAMPLE_DIST.csv) |
 
 ## What is in this sample
