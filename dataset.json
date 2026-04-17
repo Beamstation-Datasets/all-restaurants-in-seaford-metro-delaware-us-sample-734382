@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Multi-city restaurant dataset for Seaford (Metro), Delaware, covering Seaford. Captures the competitive landscape across city boundaries within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
   "config_name": "All Restaurants in Seaford (Metro), Delaware, US",
-  "export_job_id": "1b6ac88b-a01c-4fc0-8d7f-ce471e12693f",
+  "export_job_id": "b2b92579-d182-4cbb-959b-4138b80ded96",
   "github_org": "Beamstation-Datasets",
   "id_short": 734382,
   "location_name": "Seaford, DE",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-seaford-metro-delaware-us-sample-734382",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/734382/beamstation_734382_restaurants-us-seafordde_SAMPLE_DIST.csv",
-  "sample_pct": 9.61,
+  "sample_pct": 9.9,
   "sample_records": 71,
   "sample_sha256": "bca3c8197b07bc7fbd06ccf5ebbee94bb14e34f9094c703bf0405c25bb2791d8",
   "sample_size_bytes": 280626,
-  "total_records": 739,
-  "updated_at": "2026-04-07T12:55:20.615234+00:00"
+  "total_records": 717,
+  "updated_at": "2026-04-14T12:48:45.094575+00:00"
 }
