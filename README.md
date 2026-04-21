@@ -1,6 +1,6 @@
 # All Restaurants in Seaford (Metro), Delaware, US
 
-> Free BeamStation sample export with 71 rows and masked direct-contact fields.
+> Free BeamStation sample export with 56 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `734382` |
 | Location | Seaford, DE |
 | Category | Restaurants |
-| Full dataset size | 717 records |
-| Free sample size | 71 records (9.9%) |
-| Last export | 2026-04-14T12:48:45.094575+00:00 |
+| Full dataset size | 564 records |
+| Free sample size | 56 records (9.93%) |
+| Last export | 2026-04-21T13:40:25.896179+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-seaford-metro-delaware-us-sample-734382/releases/download/sample-latest/beamstation_734382_restaurants-us-seafordde_SAMPLE_DIST.csv) |
 
 ## What is in this sample
